@@ -1,0 +1,17 @@
+# ----------------------------
+# ignore directories
+# ----------------------------
+
+**/__pycache__/
+logs/
+min_configs/
+min_dir/
+min_skin/
+
+# ----------------------------
+# ignore files
+# ----------------------------
+
+launcher_config.json
+ToDo.txt
+*.py[cod]

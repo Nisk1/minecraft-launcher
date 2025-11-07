@@ -1,0 +1,4 @@
+questionary>=2.1.1
+minecraft-launcher-lib>=7.1
+tqdm>=4.67.1
+Pillow>=11.3.0
